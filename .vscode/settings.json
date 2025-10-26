@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/715a6c47-7387-4494-b89b-a9b9c009fee3/resourceGroups/Scada_group/providers/Microsoft.Web/sites/Scada",
+    "appService.deploySubpath": "backend-scada"
+}
